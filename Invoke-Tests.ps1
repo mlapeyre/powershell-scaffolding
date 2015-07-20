@@ -24,4 +24,3 @@
         Invoke-Pester -Path "$testDirectory" -Strict ;
         }
 }
-export-modulemember -function Invoke-Tests

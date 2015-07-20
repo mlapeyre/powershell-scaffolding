@@ -21,4 +21,3 @@
         & $nugetBinary restore $packageConfig -SolutionDirectory $currentPath
     }
 }
-export-modulemember -function Install-Dependencies
